@@ -56,7 +56,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		<td> 1425--1455 </td>
 		<td> Deepfake Detection </td>
 		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="images/question.jpg" width="50%">   
+			<img style="padding-right: 5%; float: left;" src="images/question.png" width="50%">   
 			<a href="https://www.question_TBD.com/">TBD</a> <br/> TBD
 		</td>
 	</tr>
