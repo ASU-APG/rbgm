@@ -21,7 +21,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		<th> Presenter </th>
 	</tr>
 	<tr>
-		<td> 1310--1325 </td>
+		<td> 10 min </td>
 		<td> Evolving Landscape of Generative Models: Progress and Pitfalls </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/gowthamisomepalli.jpg" width="50%"/>   
@@ -29,7 +29,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		</td>
 	</tr>
 	<tr>
-		<td> 1325--1355 </td>
+		<td> 30+5 min </td>
 		<td> Understanding training data memorization in diffusion models and ways to mitigate it </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/gowthamisomepalli.jpg" width="50%"/>   
@@ -37,7 +37,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		</td>
 	</tr>
 	<tr>
-		<td> 1355--1425 </td>
+		<td> 30+5 min </td>
 		<td>  Erasing Concepts in Diffusion Models </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/david_bau.jpeg" width="50%"/>   
@@ -45,7 +45,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		</td>
 	</tr>
 	<tr>
-		<td> 1425--1455 </td>
+		<td> 30+5 min </td>
 		<td> Instructing Generative Image Models on Fairness and Safety </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/patrick.jpeg" width="50%">   
@@ -53,7 +53,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		</td>
 	</tr>
 	<tr>
-		<td> 1425--1455 </td>
+		<td> 30+5 min </td>
 		<td> Deepfake Detection </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/question.png" width="50%">   
@@ -61,7 +61,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		</td>
 	</tr>
 	<tr>
-		<td> 1425--1455 </td>
+		<td> 40+5 min </td>
 		<td> Attribution and Fingerprinting of Image Generative Models </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/changhoonkim.jpg" width="50%">   
@@ -69,7 +69,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		</td>
 	</tr>
 	<tr>
-		<td> 1425--1455 </td>
+		<td> 40+5 min </td>
 		<td> Challenges with Evaluation of Text-to-Image Models </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/tg_hawaii.jpg" width="50%">   
