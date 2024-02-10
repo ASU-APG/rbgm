@@ -25,18 +25,10 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
     	<td> Evolving Landscape of Generative Models: Progress and Pitfalls </td>
 			<td valign="center"> 
 			<!-- Speaker 1 Image and Link -->
-			<a href="https://somepago.github.io/">Gowthami Somepalli</a> (Ph.D. Candidate, UMD)
+			<a href="https://somepago.github.io/">Gowthami Somepalli</a> (Ph.D. Candidate, UMD)<br/>
 			<!-- Speaker 2 Image and Link -->
 			<a href="https://changhoonkim.github.io/">Changhoon Kim</a> (Ph.D. Candidate, ASU)
 			</td>
-	</tr>
-	<tr>
-		<td> 10 min </td>
-		<td> Evolving Landscape of Generative Models: Progress and Pitfalls </td>
-		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="images/gowthamisomepalli.jpg" width="50%"/>   
-			<a href="https://somepago.github.io/">Gowthami Somepalli , Changhoon Kim</a> <br/> (Ph.D. Candidate, UMD)
-		</td>
 	</tr>
 	<tr>
 		<td> 30+5 min </td>
