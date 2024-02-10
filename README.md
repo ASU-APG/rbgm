@@ -48,8 +48,24 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		<td> 1425--1455 </td>
 		<td> Instructing Generative Image Models on Fairness and Safety </td>
 		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="images/tg_hawaii.jpg" width="50%">   
-			<a href="https://www.tejasgokhale.com/">Tejas Gokhale</a> <br/> (Assistant Professor, UMBC)
+			<img style="padding-right: 5%; float: left;" src="images/patrick.jpeg" width="50%">   
+			<a href="https://ml-research.github.io/people/pschramowski/">Patrick Schramowski</a> <br/> (Researcher, DFKI)
+		</td>
+	</tr>
+	<tr>
+		<td> 1425--1455 </td>
+		<td> Deepfake Detection </td>
+		<td valign="center"> 
+			<img style="padding-right: 5%; float: left;" src="images/question.jpg" width="50%">   
+			<a href="https://www.question_TBD.com/">TBD</a> <br/> TBD
+		</td>
+	</tr>
+	<tr>
+		<td> 1425--1455 </td>
+		<td> Attribution and Fingerprinting of Image Generative Models </td>
+		<td valign="center"> 
+			<img style="padding-right: 5%; float: left;" src="images/changhoonkim.jpg" width="50%">   
+			<a href="https://www.changhooonkim.com/">Changhoon Kim</a> <br/> (PhD Candidate, ASU)
 		</td>
 	</tr>
 	<tr>
@@ -58,30 +74,6 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/tg_hawaii.jpg" width="50%">   
 			<a href="https://www.tejasgokhale.com/">Tejas Gokhale</a> <br/> (Assistant Professor, UMBC)
-		</td>
-	</tr>
-	<tr>
-		<td> 1455--1520 </td>
-		<td> Invited Talk 1: Characterizing and Mitigating the Misalignment Between the Evaluation of Generative Models and their Intended Use Cases </td>
-		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="images/josh.jpeg" width="50%"/>   
-			<a href="https://www.linkedin.com/in/joshua-feinglass-b1ba23a2/">Joshua Feinglass</a> <br/> (Ph.D. Candidate, ASU)
-		</td>
-	</tr>
-	<tr>
-		<td> 1520--1545 </td>
-		<td> Invited Talk 2: Towards Robust Text-to-Image Generative Models in Resource-Efficient Manner </td>
-		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="images/matt.jpg" width="50%"/>   
-			<a href="https://maitreyapatel.com/">Maitreya Patel</a> <br/> (Ph.D. Student, ASU)
-		</td>
-	</tr>
-	<tr>
-		<td> 1545--1600 </td> 
-		<td> Concluding Remarks</td>
-		<td valign="center">
-			<img style="padding-right: 5%; float: left;" src="images/changhoonkim.jpg" width="50%"/>   
-			<a href="https://changhoonkim.com">Changhoon Kim</a> <br/> (Ph.D. Candidate, ASU)
 		</td>
 	</tr>
 </table>
