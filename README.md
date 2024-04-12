@@ -59,7 +59,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		<td> Deepfake Detection </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/ilke_demir.png" width="50%">   
-			<a href="https://ilkedemir.weebly.com/">Ilke Demir</a> <br/> (Sr. Staff Research Scientist @ Intel Labs)
+			<a href="https://ilkedemir.weebly.com/">Ilke Demir</a> <br/> (Sr. Staff Research Scientist, Intel Labs)
 		</td>
 	</tr>
 	<tr>
