@@ -87,5 +87,5 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 
 
 ```
-We acknowledge support from NSF Robust Intelligence grant #2132724
+The tutorial receives support from the University of Maryland Center for Machine Learning and the NSF Institute for Trustworthy AI in Law & Society. Further support comes from Arizona State University through the NSF Robust Intelligence grant #2132724 and NSF SaTC project #2101052.
 ```
