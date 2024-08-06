@@ -1,6 +1,8 @@
-# Responsibly Building Generative Models @ ECCV 2024 (Accepted)
+# Responsibly Building Generative Models @ ECCV 2024
 ---
-The official Website for Responsibly Building Generative Models Tutorial at ECCV 2024, *TBD* 
+The official Website for Responsibly Building Generative Models Tutorial at ECCV 2024.
+
+Date and Time *TBD* 
 
 Hosted by [Gowthami Somepalli](https://somepago.github.io/) (UMD), [Changhoon Kim](https://www.changhoonkim.com/) (ASU), [Tejas Gokhale](https://www.tejasgokhale.com/) (UMBC), [Kyle Min](https://sites.google.com/view/kylemin) (Intel Labs), [Yezhou Yang](https://yezhouyang.engineering.asu.edu/) (ASU) and [Tom Goldstein](https://www.cs.umd.edu/~tomg/) (UMD)
 
@@ -87,6 +89,6 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 
 
 ```
-The tutorial receives support from the University of Maryland Center for Machine Learning and the NSF Institute for Trustworthy AI in Law & Society. 
+The tutorial is supported by the University of Maryland Center for Machine Learning and the NSF Institute for Trustworthy AI in Law & Society. 
 Further support comes from Arizona State University through the NSF Robust Intelligence grant #2132724 and NSF SaTC project #2101052.
 ```
