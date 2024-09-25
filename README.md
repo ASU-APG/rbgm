@@ -2,7 +2,7 @@
 ---
 The official Website for Responsibly Building Generative Models Tutorial at ECCV 2024.
 
-Date and Time 9/29, PM
+Date and Time 9/29, 2PM, Suite 7
 
 Hosted by [Gowthami Somepalli](https://somepago.github.io/) (UMD), [Changhoon Kim](https://www.changhoonkim.com/) (ASU), [Tejas Gokhale](https://www.tejasgokhale.com/) (UMBC), [Kyle Min](https://sites.google.com/view/kylemin) (Intel Labs), [Yezhou Yang](https://yezhouyang.engineering.asu.edu/) (ASU) and [Tom Goldstein](https://www.cs.umd.edu/~tomg/) (UMD)
 
@@ -33,23 +33,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 			</td>
 	</tr>
 	<tr>
-		<td> 30+5 min </td>
-		<td> Understanding training data memorization in diffusion models and ways to mitigate it </td>
-		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="images/gowthamisomepalli.jpg" width="50%"/>   
-			<a href="https://somepago.github.io/">Gowthami Somepalli</a> <br/> (Ph.D. Candidate, UMD)
-		</td>
-	</tr>
-	<tr>
-		<td> 30+5 min </td>
-		<td>  Erasing Concepts in Diffusion Models </td>
-		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="images/david_bau.jpeg" width="50%"/>   
-			<a href="https://baulab.info/">David Bau</a> <br/> (Assistant Professor, NEU)
-		</td>
-	</tr>
-	<tr>
-		<td> 30+5 min </td>
+		<td> 35+5 min </td>
 		<td> Instructing Generative Image Models on Fairness and Safety </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/patrick.jpeg" width="50%">   
@@ -57,15 +41,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		</td>
 	</tr>
 	<tr>
-		<td> 30+5 min </td>
-		<td> Deepfake Detection </td>
-		<td valign="center"> 
-			<img style="padding-right: 5%; float: left;" src="images/ilke_demir.png" width="50%">   
-			<a href="https://ilkedemir.weebly.com/">Ilke Demir</a> <br/> (Sr. Staff Research Scientist, Intel Labs)
-		</td>
-	</tr>
-	<tr>
-		<td> 40+5 min </td>
+		<td> 35+5 min </td>
 		<td> Attribution and Fingerprinting of Image Generative Models </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/changhoonkim.jpg" width="50%">   
@@ -73,11 +49,35 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 		</td>
 	</tr>
 	<tr>
-		<td> 40+5 min </td>
+		<td> 30+5 min </td>
 		<td> Challenges with Evaluation of Text-to-Image Models </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/tg_hawaii.jpg" width="50%">   
 			<a href="https://www.tejasgokhale.com/">Tejas Gokhale</a> <br/> (Assistant Professor, UMBC)
+		</td>
+	</tr>
+	<tr>
+		<td> 35+5 min </td>
+		<td>  Erasing Concepts in Diffusion Models </td>
+		<td valign="center"> 
+			<img style="padding-right: 5%; float: left;" src="images/david_bau.jpeg" width="50%"/>   
+			<a href="https://baulab.info/">David Bau</a> <br/> (Assistant Professor, NEU)
+		</td>
+	</tr>
+	<tr>
+		<td> 35+5 min </td>
+		<td> Battle Against Deepfakes using Authenticity </td>
+		<td valign="center"> 
+			<img style="padding-right: 5%; float: left;" src="images/ilke_demir.png" width="50%">   
+			<a href="https://ilkedemir.weebly.com/">Ilke Demir</a> <br/> (Sr. Staff Research Scientist, Intel Labs)
+		</td>
+	</tr>
+	<tr>
+		<td> 30+5 min </td>
+		<td> Understanding training data memorization in diffusion models and ways to mitigate it </td>
+		<td valign="center"> 
+			<img style="padding-right: 5%; float: left;" src="images/gowthamisomepalli.jpg" width="50%"/>   
+			<a href="https://somepago.github.io/">Gowthami Somepalli</a> <br/> (Ph.D. Candidate, UMD)
 		</td>
 	</tr>
 </table>
