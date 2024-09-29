@@ -58,7 +58,7 @@ In this tutorial, we will emphasize on the issues discussed above and the attend
 	</tr>
 	<tr>
 		<td> 35+5 min </td>
-		<td>  Erasing Concepts in Diffusion Models </td>
+		<td>  Interpretability and Responsibility in AI </td>
 		<td valign="center"> 
 			<img style="padding-right: 5%; float: left;" src="images/david_bau.jpeg" width="50%"/>   
 			<a href="https://baulab.info/">David Bau</a> <br/> (Assistant Professor, NEU)
