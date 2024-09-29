@@ -3,6 +3,8 @@
 The official Website for Responsibly Building Generative Models Tutorial at ECCV 2024.
 
 Date and Time 9/29, 2PM, Suite 7
+Zoom link: https://asu.zoom.us/j/81540604207?pwd=UdeUUq7B6MvEgNOnTKJuSrOAfSBzTF.1
+Pwd: eccv2024
 
 Hosted by [Gowthami Somepalli](https://somepago.github.io/) (UMD), [Changhoon Kim](https://www.changhoonkim.com/) (ASU), [Tejas Gokhale](https://www.tejasgokhale.com/) (UMBC), [Kyle Min](https://sites.google.com/view/kylemin) (Intel Labs), [Yezhou Yang](https://yezhouyang.engineering.asu.edu/) (ASU) and [Tom Goldstein](https://www.cs.umd.edu/~tomg/) (UMD)
 
